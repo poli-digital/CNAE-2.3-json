@@ -362,7 +362,7 @@
                         }
                     },
                     "01.6": {
-                        "descricao": "Atividades de apoio à agricultura e à pecuária; atividades de\npós-colheita",
+                        "descricao": "Atividades de apoio à agricultura e à pecuária; atividades de pós-colheita",
                         "classes": {
                             "01.61-0": {
                                 "descricao": "Atividades de apoio à agricultura",
@@ -1686,7 +1686,7 @@
                                 "descricao": "Fabricação de calçados de materiais não especificados anteriormente",
                                 "subclasses": {
                                     "1539-4/00": {
-                                        "descricao": "Fabricação de calçados de materiais não especificados\nanteriormente"
+                                        "descricao": "Fabricação de calçados de materiais não especificados anteriormente"
                                     }
                                 }
                             }
@@ -1763,7 +1763,7 @@
                                 }
                             },
                             "16.29-3": {
-                                "descricao": "Fabricação de artefatos de madeira, palha, cortiça, vime e material trançado não especificados anteriormente, exceto\nmóveis",
+                                "descricao": "Fabricação de artefatos de madeira, palha, cortiça, vime e material trançado não especificados anteriormente, exceto móveis",
                                 "subclasses": {
                                     "1629-3/01": {
                                         "descricao": "Fabricação de artefatos diversos de madeira, exceto móveis"
@@ -2371,7 +2371,7 @@
                                 "descricao": "Fabricação de artefatos de borracha não especificados anteriormente",
                                 "subclasses": {
                                     "2219-6/00": {
-                                        "descricao": "Fabricação de artefatos de borracha não especificados \nanteriormente"
+                                        "descricao": "Fabricação de artefatos de borracha não especificados anteriormente"
                                     }
                                 }
                             }
@@ -2740,10 +2740,10 @@
                 }
             },
             "25": {
-                "descricao": "FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS\nE EQUIPAMENTOS",
+                "descricao": "FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS",
                 "grupos": {
                     "25.1": {
-                        "descricao": "Fabricação de estruturas metálicas e obras de caldeiraria\npesada",
+                        "descricao": "Fabricação de estruturas metálicas e obras de caldeiraria pesada",
                         "classes": {
                             "25.11-0": {
                                 "descricao": "Fabricação de estruturas metálicas",
@@ -2998,7 +2998,7 @@
                         "descricao": "Fabricação de aparelhos e instrumentos de medida, teste e controle; cronômetros e relógios",
                         "classes": {
                             "26.51-5": {
-                                "descricao": "Fabricação de aparelhos e equipamentos de medida, teste e\ncontrole",
+                                "descricao": "Fabricação de aparelhos e equipamentos de medida, teste e controle",
                                 "subclasses": {
                                     "2651-5/00": {
                                         "descricao": "Fabricação de aparelhos e equipamentos de medida, teste e controle"
@@ -4153,10 +4153,10 @@
                         }
                     },
                     "35.3": {
-                        "descricao": "Produção e distribuição de vapor, água quente e ar\ncondicionado",
+                        "descricao": "Produção e distribuição de vapor, água quente e ar condicionado",
                         "classes": {
                             "35.30-1": {
-                                "descricao": "Produção e distribuição de vapor, água quente e ar\ncondicionado",
+                                "descricao": "Produção e distribuição de vapor, água quente e ar condicionado",
                                 "subclasses": {
                                     "3530-1/00": {
                                         "descricao": "Produção e distribuição de vapor, água quente e ar condicionado"
@@ -4397,7 +4397,7 @@
                                 "descricao": "Obras para geração e distribuição de energia elétrica e para telecomunicações",
                                 "subclasses": {
                                     "4221-9/01": {
-                                        "descricao": "Construção de barragens e represas para geração de energia \nelétrica"
+                                        "descricao": "Construção de barragens e represas para geração de energia elétrica"
                                     },
                                     "4221-9/02": {
                                         "descricao": "Construção de estações e redes de distribuição de energia elétrica"
@@ -4526,7 +4526,7 @@
                                 }
                             },
                             "43.22-3": {
-                                "descricao": "Instalações hidráulicas, de sistemas de ventilação e\nrefrigeração",
+                                "descricao": "Instalações hidráulicas, de sistemas de ventilação e refrigeração",
                                 "subclasses": {
                                     "4322-3/01": {
                                         "descricao": "Instalações hidráulicas, sanitárias e de gás"
@@ -5473,7 +5473,7 @@
                                 }
                             },
                             "47.12-1": {
-                                "descricao": "Comércio varejista de mercadorias em geral, com\npredominância de produtos alimentícios - minimercados,\nmercearias e armazéns",
+                                "descricao": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns",
                                 "subclasses": {
                                     "4712-1/00": {
                                         "descricao": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
@@ -7401,10 +7401,10 @@
                         }
                     },
                     "66.3": {
-                        "descricao": "Atividades de administração de fundos por contrato ou\ncomissão",
+                        "descricao": "Atividades de administração de fundos por contrato ou comissão",
                         "classes": {
                             "66.30-4": {
-                                "descricao": "Atividades de administração de fundos por contrato ou\ncomissão",
+                                "descricao": "Atividades de administração de fundos por contrato ou comissão",
                                 "subclasses": {
                                     "6630-4/00": {
                                         "descricao": "Atividades de administração de fundos por contrato ou comissão"
@@ -7814,7 +7814,7 @@
                                 "descricao": "Locação de meios de transporte, exceto automóveis, sem condutor",
                                 "subclasses": {
                                     "7719-5/01": {
-                                        "descricao": "Locação de embarcações sem tripulação, exceto para fins\nrecreativos"
+                                        "descricao": "Locação de embarcações sem tripulação, exceto para fins recreativos"
                                     },
                                     "7719-5/02": {
                                         "descricao": "Locação de aeronaves sem tripulação"
@@ -8146,7 +8146,7 @@
                 }
             },
             "82": {
-                "descricao": "SERVIÇOS DE ESCRITÓRIO, DE APOIO ADMINISTRATIVO E OUTROS SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS\nEMPRESAS",
+                "descricao": "SERVIÇOS DE ESCRITÓRIO, DE APOIO ADMINISTRATIVO E OUTROS SERVIÇOS PRESTADOS PRINCIPALMENTE ÀS EMPRESAS",
                 "grupos": {
                     "82.1": {
                         "descricao": "Serviços de escritório e apoio administrativo",
@@ -8774,10 +8774,10 @@
                         }
                     },
                     "87.2": {
-                        "descricao": "Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos, deficiência mental e dependência\nquímica",
+                        "descricao": "Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos, deficiência mental e dependência química",
                         "classes": {
                             "87.20-4": {
-                                "descricao": "Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos, deficiência mental e dependência\nquímica",
+                                "descricao": "Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos, deficiência mental e dependência química",
                                 "subclasses": {
                                     "8720-4/01": {
                                         "descricao": "Atividades de centros de assistência psicossocial"
@@ -8869,7 +8869,7 @@
                                 "descricao": "Criação artística",
                                 "subclasses": {
                                     "9002-7/01": {
-                                        "descricao": "Atividades de artistas plásticos, jornalistas independentes e\nescritores"
+                                        "descricao": "Atividades de artistas plásticos, jornalistas independentes e escritores"
                                     },
                                     "9002-7/02": {
                                         "descricao": "Restauração de obras de arte"
@@ -8903,7 +8903,7 @@
                                 }
                             },
                             "91.02-3": {
-                                "descricao": "Atividades de museus e de exploração, restauração artística\ne conservação de lugares e prédios históricos e atrações\nsimilares",
+                                "descricao": "Atividades de museus e de exploração, restauração artística e conservação de lugares e prédios históricos e atrações similares",
                                 "subclasses": {
                                     "9102-3/01": {
                                         "descricao": "Atividades de museus e de exploração de lugares e prédios históricos e atrações similares"
@@ -8926,7 +8926,7 @@
                 }
             },
             "92": {
-                "descricao": "ATIVIDADES DE EXPLORAÇÃO DE JOGOS DE AZAR E\nAPOSTAS",
+                "descricao": "ATIVIDADES DE EXPLORAÇÃO DE JOGOS DE AZAR E APOSTAS",
                 "grupos": {
                     "92.0": {
                         "descricao": "Atividades de exploração de jogos de azar e apostas",
@@ -9004,7 +9004,7 @@
                                 }
                             },
                             "93.29-8": {
-                                "descricao": "Atividades de recreação e lazer não especificadas\nanteriormente",
+                                "descricao": "Atividades de recreação e lazer não especificadas anteriormente",
                                 "subclasses": {
                                     "9329-8/01": {
                                         "descricao": "Discotecas, danceterias, salões de dança e similares"
@@ -9105,7 +9105,7 @@
                                 }
                             },
                             "94.93-6": {
-                                "descricao": "Atividades de organizações associativas ligadas à cultura\ne à arte",
+                                "descricao": "Atividades de organizações associativas ligadas à cultura e à arte",
                                 "subclasses": {
                                     "9493-6/00": {
                                         "descricao": "Atividades de organizações associativas ligadas à cultura e à arte"
